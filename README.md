@@ -1,4 +1,4 @@
-# 🌱 AI-Powered Farming Advisor System
+# 🌱 CrewAI-Powered Farming Advisor Mult-agent System
 
 Uses CrewAI multi-agent LLMs for crop-specific analysis:
 - Soil & climate assessment
