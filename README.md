@@ -16,7 +16,7 @@ Uses CrewAI multi-agent LLMs for crop-specific analysis:
 
 ## 🧠 System Workflow
 
-![System Flow](images/system workflow.png)
+![System Flow](images/system_workflow.png)
 
 ## 📝 Inputs
 
