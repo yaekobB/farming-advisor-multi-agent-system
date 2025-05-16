@@ -44,14 +44,14 @@ Uses CrewAI multi-agent LLMs for crop-specific analysis:
    ```bash
    git clone https://github.com/yaekobB/farming-advisor-multi-agent-system.git
 2. Add `.env` with your API keys
-  ```bash
-  GROQ_API_KEY=your_groq_api_key
-  OPENWEATHER_API_KEY=your_openweather_api_key
+   ```bash
+   GROQ_API_KEY=your_groq_api_key
+   OPENWEATHER_API_KEY=your_openweather_api_key
 
 3. Install requirements: 
-    ```bash
-    pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 4. Run: 
-    ```bash
-    python farming_advisor_agent_code_best.py
+   ```bash
+   python farming_advisor_agent_code.py
 
