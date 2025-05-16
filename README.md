@@ -14,10 +14,6 @@ Uses CrewAI multi-agent LLMs for crop-specific analysis:
 - Auto-generated farmer-friendly report in PDF format
 - Clean, interactive Gradio interface
 
-## 🧠 System Workflow
-
-![System Flow](images/system_workflow.png)
-
 ## 📝 Inputs
 
 - Crop type (e.g., Maize)
@@ -44,6 +40,18 @@ Uses CrewAI multi-agent LLMs for crop-specific analysis:
 [📥 Download PDF Report](examples/wheat-USA-report.pdf)
 
 ## 🚀 How to Run
-1. Add `.env` with your API keys
-2. Install requirements: `pip install -r requirements.txt`
-3. Run: `python farming_advisor_agent_code_best.py`
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/yaekobB/farming-advisor-multi-agent-system.git
+2. Add `.env` with your API keys
+  ```bash
+  GROQ_API_KEY=your_groq_api_key
+  OPENWEATHER_API_KEY=your_openweather_api_key
+
+3. Install requirements: 
+    ```bash
+    pip install -r requirements.txt
+4. Run: 
+    ```bash
+    python farming_advisor_agent_code_best.py
+
